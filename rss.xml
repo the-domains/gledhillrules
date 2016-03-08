@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[GledhillRules]]></title>
+        <description><![CDATA[GledhillRules]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 08 Mar 2016 23:18:02 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Found a dog yesterday. It crossed the road just as I was pulling away from my house on my way to work for an 8:30 meeting.  It had no collar but it did have the carefree and plucky demeanor common to a dog that has just escaped the confines of it's normal domain.  It was looking for some action, not a meal.  </p>]]></description>
+            <link>undefinedfound-a-dog-yesterday-it-crossed-the-road-just-as-i-was-pul/index.html</link>
+            <guid isPermaLink="false">ca545fbf-fc31-4c53-9d6e-824ab2dcb6ca</guid>
+            <pubDate>Tue, 08 Mar 2016 23:16:51 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
